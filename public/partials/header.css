@@ -1,0 +1,33 @@
+.header-div{
+  background-color: #183c56;
+  width:100%;
+  height: 50px;
+}
+
+.logo {
+  width:200px;
+  float:left;
+  margin-left:50px;
+}
+
+.main-content{
+  margin-left:200px;
+}
+
+body{
+  overflow-x: auto; 
+}
+
+button{
+  background-color: #1d76bd;
+  border-radius: 4px;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
